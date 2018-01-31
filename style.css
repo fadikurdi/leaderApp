@@ -1,0 +1,15 @@
+body{
+    height: 100%;
+    background-image: url(img/logo.png);
+    background-repeat: repeat-x;
+}
+#root{
+  text-align: center;  
+  margin-top: 30%;
+    border-style: ridge;
+}
+h2{
+    color:#FC5A5A;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
